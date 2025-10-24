@@ -3,8 +3,8 @@ Pytorch 训练整体流程分析 && 它和 transformer 有哪些联系？
 ---
 
 一、pytorch 训练过程：
-其实你可以把这个过程看作一个原始的大模型的训练过程，只是太原始了
-这里的参考代码是[example](./pytorch_code/example.py)
+其实你可以把这个过程看作一个原始的大模型的训练过程，只是太原始了  
+这里的参考代码是: [example](./pytorch_code/example.py)
 
 ### 1）正向传播过程-预测：
 
