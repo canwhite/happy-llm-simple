@@ -12,6 +12,8 @@
 
 10 月 14 日晚上花了两个小时学习[Happy-LLM](https://github.com/datawhalechina/happy-llm)后，为了方便理解复盘开了这个仓库。相对原本更加明晰简短，可以理解为无痛小白版，整体读完大概三四十分钟左右。希望对大家有帮助。
 
+10 月 24 日更新了 PyTorch 相关信息。
+
 ## 📖 目录导航
 
 | 章节                                       | 主要内容                                             | 状态 |
@@ -43,6 +45,8 @@
 ### Project Introduction
 
 After two hours spent learning Happy-LLM on Oct 14, 2025. Started this repo for clarity. It's a simpler, painless version for beginner. Reading it takes roughly 30-40 mins. I hope that will be helpful.
+
+Updated PyTorch information on Oct 24, 2025.
 
 ## 📖 Content Navigation
 
