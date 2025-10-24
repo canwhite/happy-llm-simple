@@ -24,6 +24,7 @@
 | [第 5 章：LLM 实现](./5.LLM_Implement.md)  | 实现 LLaMA2、训练 Tokenizer、预训练小规模 LLM        | ✅   |
 | [第 6 章：训练](./6.Train.md)              | 预训练、监督微调、LoRA/QLoRA 高效微调                | 🚧   |
 | [第 7 章：应用](./7.Usage.md)              | 模型评估、RAG 检索增强、Agent 智能体                 | ✅   |
+| [PyTorch 基础](./PyTorch.md)               | PyTorch 训练流程、反向传播、梯度下降、架构对比        | ✅   |
 
 ### 特别感谢
 
@@ -55,6 +56,7 @@ After two hours spent learning Happy-LLM on Oct 14, 2025. Started this repo for 
 | [Chapter 5: LLM Implement](./5.LLM_Implement.md) | Implementing LLaMA2, training Tokenizer, pre-training small LLM                      | ✅     |
 | [Chapter 6: Train](./6.Train.md)                 | Pre-training, supervised fine-tuning, LoRA/QLoRA efficient fine-tuning               | 🚧     |
 | [Chapter 7: Usage](./7.Usage.md)                 | Model evaluation, RAG retrieval enhancement, Agent intelligent agents                | ✅     |
+| [PyTorch Basics](./PyTorch.md)                  | PyTorch training workflow, backpropagation, gradient descent, architecture comparison | ✅     |
 
 ### Special Thanks
 
